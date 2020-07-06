@@ -1,0 +1,21 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.header{
+background-color: red;
+display:flex;
+justify-content:space-evenly;
+}
+.grid{
+display:flex;
+flex-wrap:wrap;
+justify-content: space-between;
+}
+.footer{
+display: flex;
+justify-content: flex-end;
+}
